@@ -1,0 +1,6 @@
+*.elc
+*.eln
+/advpl-ert-*/
+/task.md
+/projeto.md
+/alfred-arch/
